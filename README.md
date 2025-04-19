@@ -1,4 +1,4 @@
-# Hello world 123
+# Hello world
 
 # React + TypeScript + Vite
 
